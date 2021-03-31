@@ -1,4 +1,4 @@
-- CAD1 - Einsteiger:innen
+- CAD1 - Einführungskurs
 
   - [Kursübersicht](CAD1/Kursuebersicht.md)
   - [Sessions](CAD1/Sessions.md)
