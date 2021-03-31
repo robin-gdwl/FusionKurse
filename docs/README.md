@@ -3,5 +3,4 @@
 ## CAD1-Einsteiger:innen
 
 ## CAD2-Fortgeschrittene
-CAD2 
 
