@@ -1,6 +1,9 @@
 
-# CAD2 Fusion Kurs Advanced
+# CAD2 - Fusion Aufbaukurs
 
+<div style='color: red'>
+Kurs vom Wintersemester 2020/2021
+</div>
 -----
 
 ## Vorbereitung
