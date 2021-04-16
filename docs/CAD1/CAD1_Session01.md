@@ -9,17 +9,20 @@ Lernziel: Überblick über die Fusion-Nutzungsoberfläche. Erste Geometrien Erst
 
 #### Nutzungoberfläche
 
-    - Data Panel
-    - Timeline 
-    - 3D-View
+- Data Panel
+- Timeline 
+- 3D-View
 
 #### Skizzieren
 
-    - Bemaßung
-    - Constraints
+- Bemaßung
+- Constraints
 
 #### Extrudieren
 
-    - Join
-    - Cut
+- Join
+- Cut
 ----------
+
+### Beispielergebnis
+<iframe src="https://myhub.autodesk360.com/ue29afa02/shares/public/SH919a0QTf3c32634dcf9a2462648570f637?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
