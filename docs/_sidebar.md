@@ -6,7 +6,7 @@
 
 * CAD2 - Fortgeschrittene
 
-  - [Aktuelle Session](CAD2/CAD2_Session01.md)
+  - [Aktuelle Session](CAD2/CAD2_Session02.md)
   - [Kursübersicht](CAD2/Kursuebersicht.md)
   - [Ergebnisse](CAD2/Ergebnisse.md)
 
@@ -15,4 +15,4 @@
 - Archiv
 
   - [CAD1 WiSe 20/21](Archiv/CAD1_WiSe20-21.md)
-  - [CAD1 WiSe 20/21](Archiv/CAD2_WiSe20-21.md)
+  - [CAD2 WiSe 20/21](Archiv/CAD2_WiSe20-21.md)
