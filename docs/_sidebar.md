@@ -1,12 +1,12 @@
 * CAD1 - Einführungskurs
 
-  - [Aktuelle Session](CAD1/CAD1_Session02.md)
+  - [Aktuelle Session](CAD1/CAD1_Session03.md)
   - [Kursübersicht](CAD1/Kursuebersicht.md)
   - [Ergebnisse](CAD1/Ergebnisse.md)
 
 * CAD2 - Fortgeschrittene
 
-  - [Aktuelle Session](CAD2/CAD2_Session02.md)
+  - [Aktuelle Session](CAD2/CAD2_Session03.md)
   - [Kursübersicht](CAD2/Kursuebersicht.md)
   - [Ergebnisse](CAD2/Ergebnisse.md)
 
