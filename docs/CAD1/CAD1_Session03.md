@@ -1,4 +1,4 @@
-# Session 03: Modelling real Objects
+# Session 03: "Echte Objekte Modellieren
 
 In dieser Session geht es darum "echte" Objekte nach Vorlage zu modellieren.  
 In der Hausaufgabe der letzten Wochen haben wir bereits mit Referenzen gearbeitet, diesmal geht es or allem darum zu planen, wie ein Modell aufgebaut werden kann. 

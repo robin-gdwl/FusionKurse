@@ -1,6 +1,7 @@
-## Session 2: Assembly Deep-Dive
+# Session 2: Assembly Deep-Dive
 
-![img](https://i.pinimg.com/564x/18/99/ff/1899ff2dfc717c16a6489552af258c2a.jpg)
+<!-- ![img](https://i.pinimg.com/564x/18/99/ff/1899ff2dfc717c16a6489552af258c2a.jpg) -->
+<img align="right" width="300" height="300" src="https://i.pinimg.com/564x/18/99/ff/1899ff2dfc717c16a6489552af258c2a.jpg">
 
 ### Topics
 
@@ -14,7 +15,9 @@
 
 - Design Approaches:
   - Bottom-up
+    - Zuerst Einzelteile erstellen und diese später zusammen fügen
   - Top-Down
+    - In einer Komponente/Skizze/Datei mehrer Objekte erstellen und diese Erst im nächsten Schritt Ordnen/Gruppieren
   - [ Erklärungsvideo Top-Down vs. Bottom-Up modelling ](https://www.youtube.com/watch?v=Tkx5LhmX-5Q)
 
 #### Sonstiges
