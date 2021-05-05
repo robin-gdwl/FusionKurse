@@ -17,3 +17,5 @@ Session 06
 Session 07  
 Session 08  
 
+
+[Organisatorisches](../Orga/Organisatorisches.md ':include')

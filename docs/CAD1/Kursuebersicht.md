@@ -21,5 +21,6 @@ Um den Kurs so praxisnah wie möglich zu gestalten dürft ihr gerne Themen, Obje
 - Session 08  
 
 
-[Organisatorisches](Orga/Organisatorisches.md ':include')
+
+[Organisatorisches](../Orga/Organisatorisches.md ':include')
 

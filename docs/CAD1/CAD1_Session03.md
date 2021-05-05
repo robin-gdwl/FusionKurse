@@ -19,3 +19,7 @@ Modelliere das Objekt, achte dabei vor allem auf Abhängigkeiten zwischen Körpe
 
 Falls du stecken bleibst, probiere andere Tools aus oder geh noch mal 2-3 Schritte zurück. 
 
+______
+
+Zuletzt Aktualisiert: 
+{docsify-updated}
