@@ -14,7 +14,7 @@ Um den Kurs so praxisnah wie möglich zu gestalten dürft ihr gerne Themen, Obje
 - [Session 02: Deep-Dive "Create"](CAD1/CAD1_Session02.md)  
   - [Hausaufgabe: Karaffe](CAD1/CAD1_Session02?id=hausaufgabe)  
 - [Session 03: "Echte" Objekte modellieren](CAD1/CAD1_Session03.md)  
-- [Session 04: Patterns](CAD1/CAD1_Session04.md)
+- [Session 04: Freiformen (sculpting)](CAD1/CAD1_Session04.md)
 - Session 05  
 - Session 06  
 - Session 07  
