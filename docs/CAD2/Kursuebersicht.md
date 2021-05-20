@@ -8,14 +8,14 @@ Wie immer habt ihr auch die Möglichkeit eigene Themen, Herstellungsmethoden und
 
 ## Sessions
 
-[ Session 01: Recap und Übersicht](CAD2/CAD2_Session01.md)  
-[ Session 02: Deep-Dive "Assembly"](CAD2/CAD2_Session02.md)  
-[ Session 03: Joints Wiederholung](CAD2/CAD2_Session03.md)  
-[ Session 04: Freiformen und Rendering Intro](CAD2/CAD2_Session04.md)  
-Session 05  
-Session 06  
-Session 07  
-Session 08  
+- [ Session 01: Recap und Übersicht](CAD2/CAD2_Session01.md)  
+- [ Session 02: Deep-Dive "Assembly"](CAD2/CAD2_Session02.md)  
+- [ Session 03: Joints Wiederholung](CAD2/CAD2_Session03.md)  
+- [ Session 04: Freiformen und Rendering Intro](CAD2/CAD2_Session04.md)  
+- [ Session 05: Parametrik und Blechfunktion](CAD2_Session05.md)  
+- Session 06  
+- Session 07  
+- Session 08  
 
 
 [Organisatorisches](../Orga/Organisatorisches.md ':include')
