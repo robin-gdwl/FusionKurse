@@ -98,6 +98,6 @@ Webseiten zum Download von 3D-Modellen:
 
 Nochmal eine Kurzinfo zur Hausaufgabe inklusive kleinem Beispiel
 
-<iframe width="600" height="400" src="https://www.youtube.com/embed/watch?v=JrCm6O7inho&" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/JrCm6O7inho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ----------
