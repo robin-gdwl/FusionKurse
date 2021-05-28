@@ -6,7 +6,7 @@
 
 * CAD2 - Fortgeschrittene
 
-  - [Aktuelle Session](CAD2/CAD2_Session05.md)
+  - [Aktuelle Session](CAD2/CAD2_Session06.md)
   - [Kursübersicht](CAD2/Kursuebersicht.md)
   - [Ergebnisse](CAD2/Ergebnisse.md)
 
