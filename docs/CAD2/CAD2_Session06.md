@@ -60,6 +60,8 @@ Link zur Solidworks Datei
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/w5eAMIv4M9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Video version mit erhöhter Lautstärke: https://www.youtube.com/watch?v=jPO87TjSR64
+
  Homework:
 
 Ladet euch auf einer Seite wie Grabcad ein 3D Modell mit mindestens 4 Körpern/Komponeneten herunter und erstellt eine mehrseitige technische Zeichung mit allen nötigen Maßen, einer Explosionsansicht der Einzelteile sowie einer Übersicht von Objekten aus gleichem Material (Schnittplan).
