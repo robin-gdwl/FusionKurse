@@ -1,7 +1,6 @@
+# Session 06: 3D Formate und Zeichnungen
 
-## Session 06: 3D Formate und Zeichnungen
-
-### Übersicht 3D-Dateiformate
+## Übersicht 3D-Dateiformate
 
 **Proprietäre Formate** **(Softwaregebunden)**
 
@@ -52,7 +51,7 @@ Immer die Ursprungsdatei mit exportieren um keine Informationen zu verlieren.
 
 Nach Möglichkeit und Verwendungsyweck verschiedene Interchange-Formate mitliefern.
 
- Tutorial
+## Tutorial
 
 Link zur Solidworks Datei
 
@@ -62,7 +61,7 @@ Link zur Solidworks Datei
 
 Video version mit erhöhter Lautstärke: https://www.youtube.com/watch?v=jPO87TjSR64
 
- Homework:
+## Homework bis in zwei Wochen:
 
 Ladet euch auf einer Seite wie Grabcad ein 3D Modell mit mindestens 4 Körpern/Komponeneten herunter und erstellt eine mehrseitige technische Zeichung mit allen nötigen Maßen, einer Explosionsansicht der Einzelteile sowie einer Übersicht von Objekten aus gleichem Material (Schnittplan).
 
