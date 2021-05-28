@@ -1,6 +1,6 @@
 * CAD1 - Einführungskurs
 
-  - [Aktuelle Session](CAD1/CAD1_Session05.md)
+  - [Aktuelle Session](CAD1/CAD1_Session06.md)
   - [Kursübersicht](CAD1/Kursuebersicht.md)
   - [Ergebnisse](CAD1/Ergebnisse.md)
 
