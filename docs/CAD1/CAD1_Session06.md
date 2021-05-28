@@ -66,7 +66,8 @@ Nach Möglichkeit und Verwendungsyweck verschiedene Interchange-Formate mitliefe
 Solidworks Dateien Download
 <https://www.dropbox.com/sh/usd62jexewc6ggp/AACkJ-t9Tnk_LFQl1eQxe7Uda?dl=0>
 
-<iframe width="600" height="400" src="https://www.youtube.com/embed/watch?v=6O-ftuqFnmI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6O-ftuqFnmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Links
 
