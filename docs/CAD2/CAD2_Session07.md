@@ -12,7 +12,11 @@
     - Komponenten wiederverwenden
   - Welche Einschränkungen hat der Herstellungsprozess? 
 
-
+Buchempfehlung: **Manufacturing Processes for Design Professionals** von Rob Thompson  
+Links: 
+- [WorldCat](https://www.worldcat.org/title/manufacturing-processes-for-design-professionals/oclc/153555771)
+- [Verlag (Thames & Hudson)](https://thamesandhudson.com/manufacturing-processes-for-design-professionals-9780500513750)
+- [Google Books](https://www.google.de/books/edition/Manufacturing_Processes_for_Design_Profe/NuF8NAAACAAJ?hl=en)
 
 ## Tutorial 
 
@@ -20,5 +24,8 @@ Tutorial Mold-making
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AA4XgyYCLz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Version mit besserem Audio: 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XknatB_UIOg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
