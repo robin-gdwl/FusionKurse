@@ -17,8 +17,8 @@ Um den Kurs so praxisnah wie möglich zu gestalten dürft ihr gerne Themen, Obje
 - [Session 04: Freiformen (sculpting)](CAD1/CAD1_Session04.md)  
 - [Session 05: Baugruppen](CAD1/CAD1_Session05.md)  
 - [Session 06: Externe Dateien und Rendern](CAD1/CAD1_Session06.md)  
-- Session 07  
-- Session 08  
+- [Session 07: Patterns](CAD1/CAD1_Session07.md)  
+- Session 08: Recap und Ausblick  
 
 
 
