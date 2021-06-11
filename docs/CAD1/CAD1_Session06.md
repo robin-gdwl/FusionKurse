@@ -1,13 +1,14 @@
 ## Session 06: Externe Dateien und Rendern
 
+## Live-Session Aufzeichnung
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZNWzxA65790" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Lernziele/ Topics
 
 - Einführung: Inspect-Funktionen
-
 - Externe 3D- und 2D- Modelle in Fusion Laden ([Handbuch](https://www.autodesk.com/products/fusion-360/blog/data-exchange-in-fusion-360-part-1/))
-
 - Schraubenkatalog nutzen
-
 - Objekte Rendern
 
 ### Übersicht 3D-Dateiformate
