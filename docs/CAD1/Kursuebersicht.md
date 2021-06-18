@@ -18,7 +18,7 @@ Um den Kurs so praxisnah wie möglich zu gestalten dürft ihr gerne Themen, Obje
 - [Session 05: Baugruppen](CAD1/CAD1_Session05.md)  
 - [Session 06: Externe Dateien und Rendern](CAD1/CAD1_Session06.md)  
 - [Session 07: Patterns](CAD1/CAD1_Session07.md)  
-- Session 08: Recap und Ausblick  
+- [Session 08 ](CAD1/CAD1_Session08.md)  
 
 
 
