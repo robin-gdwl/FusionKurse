@@ -15,7 +15,7 @@ Wie immer habt ihr auch die Möglichkeit eigene Themen, Herstellungsmethoden und
 - [ Session 05: Parametrik und Blechfunktion](CAD2/CAD2_Session05.md)  
 - [ Session 06: Externe Dateien Animationen und Zeichnungen](CAD2/CAD2_Session06.md)  
 - [Session 07: Design for Manufacturing: Mold-making](CAD2/CAD2_Session07.md)
-- Session 08  
+- [Session 08: Weitere Möglichkeiten in Fusion360](CAD2/CAD2_Session08.md)
 
 
 [Organisatorisches](../Orga/Organisatorisches.md ':include')

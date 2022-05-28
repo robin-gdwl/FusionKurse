@@ -1,6 +1,6 @@
 
-- CAD1 - Einsteiger:innen 
+- CAD1 - Grundkurs 
 
   - [Kursübersicht](CAD1/Kursübersicht.md)
   - [Sessions](CAD1/Sessions.md)
-  - [Ergebnisse](CAD1/Ergebnisse.md)
+  - [Ergeunisse](CAD1/Ergebnisse.md)
