@@ -6,7 +6,6 @@
 <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 </html>
 
-
 ## Tutorial
 
 Das Tutorial ist diese Woche nicht verpflichtend. Diejenigen die bereits im letzten Semester mit der Freiform gearbeitet haben müssen es nicht zwingend nochmal durcharbeiten.  
